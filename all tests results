@@ -1,0 +1,201 @@
+When the number of retrieved results is 1
+RM1
+topDocs = 3, topTerms = 10
+The count now is 50
+The non-zero count is 36
+The average non-zero Rouge-1 model is 0.2648106760288376
+The average non-zero Rouge-L model is 0.24347067343883497
+Average Rouge-1 for the model is 0.1906636867407631
+Average Rouge-L for the model is 0.17529888487596118
+
+topDocs = 2, topTerms = 5
+The count now is 50
+The non-zero count is 31
+The average non-zero Rouge-1 model is 0.22151824084878788
+The average non-zero Rouge-L model is 0.2102992598067059
+Average Rouge-1 for the model is 0.1373413093262485
+Average Rouge-L for the model is 0.13038554108015765
+
+topDocs = 1, topTerms = 5
+The count now is 50
+The non-zero count is 28
+The average non-zero Rouge-1 model is 0.22246544160844775
+The average non-zero Rouge-L model is 0.19671990947746673
+Average Rouge-1 for the model is 0.12458064730073075
+Average Rouge-L for the model is 0.11016314930738137
+
+
+
+RM3
+topDocs = 3, topTerms = 10, origWeight = 0.25
+The count now is 50
+The non-zero count is 28
+The average non-zero Rouge-1 model is 0.24516531899601146
+The average non-zero Rouge-L model is 0.23802246185315432
+Average Rouge-1 for the model is 0.13729257863776642
+Average Rouge-L for the model is 0.13329257863776642
+
+topDocs = 2, topTerms = 5, origWeight = 0.25
+The count now is 50
+The non-zero count is 34
+The average non-zero Rouge-1 model is 0.19724307482357864
+The average non-zero Rouge-L model is 0.18108962043483012
+Average Rouge-1 for the model is 0.13412529088003347
+Average Rouge-L for the model is 0.12314094189568449
+
+topDocs = 1, topTerms = 5, origWeight = 0.25
+The count now is 50
+The non-zero count is 36
+The average non-zero Rouge-1 model is 0.22226604575451445
+The average non-zero Rouge-L model is 0.188932004959622
+Average Rouge-1 for the model is 0.16003155294325042
+Average Rouge-L for the model is 0.13603104357092785
+
+topDocs = 3, topTerms = 10, origWeight = 0.75
+The count now is 50
+The non-zero count is 31
+The average non-zero Rouge-1 model is 0.19354905347306528
+The average non-zero Rouge-L model is 0.1879337607609984
+Average Rouge-1 for the model is 0.12000041315330048
+Average Rouge-L for the model is 0.11651893167181901
+
+
+When the number of retrieved results is 2
+RM1
+topDocs = 3, topTerms = 10
+The count now is 50
+The non-zero count is 28
+The average non-zero Rouge-1 model is 0.1750136524632002
+The average non-zero Rouge-L model is 0.1587317861813339
+Average Rouge-1 for the model is 0.0980076453793921
+Average Rouge-L for the model is 0.08888980026154698
+
+topDocs = 2, topTerms = 5
+The count now is 50
+The non-zero count is 33
+The average non-zero Rouge-1 model is 0.22514087763446342
+The average non-zero Rouge-L model is 0.2090137680290929
+Average Rouge-1 for the model is 0.14859297923874584
+Average Rouge-L for the model is 0.13794908689920132
+
+
+topDocs = 1, topTerms = 5
+The count now is 50
+The non-zero count is 23
+The average non-zero Rouge-1 model is 0.19937149788200606
+The average non-zero Rouge-L model is 0.1868482723153022
+Average Rouge-1 for the model is 0.09171088902572279
+Average Rouge-L for the model is 0.08595020526503902
+
+
+RM3
+topDocs = 3, topTerms = 10, origWeight = 0.25
+The count now is 50
+The non-zero count is 33
+The average non-zero Rouge-1 model is 0.1817999635978931
+The average non-zero Rouge-L model is 0.17694370874163823
+Average Rouge-1 for the model is 0.11998797597460945
+Average Rouge-L for the model is 0.11678284776948124
+
+topDocs = 2, topTerms = 5, origWeight = 0.25
+The count now is 50
+The non-zero count is 29
+The average non-zero Rouge-1 model is 0.19007115164253316
+The average non-zero Rouge-L model is 0.17897012320938133
+Average Rouge-1 for the model is 0.11024126795266924
+Average Rouge-L for the model is 0.10380267146144118
+
+topDocs = 1, topTerms = 5, origWeight = 0.25
+The count now is 50
+The non-zero count is 28
+The average non-zero Rouge-1 model is 0.25871357715784965
+The average non-zero Rouge-L model is 0.25350524382451634
+Average Rouge-1 for the model is 0.1448796032083958
+Average Rouge-L for the model is 0.14196293654172915
+
+topDocs = 3, topTerms = 10, origWeight = 0.75
+The count now is 50
+The non-zero count is 28
+The average non-zero Rouge-1 model is 0.19520431395400456
+The average non-zero Rouge-L model is 0.17028478903447963
+Average Rouge-1 for the model is 0.10931441581424256
+Average Rouge-L for the model is 0.09535948185930859
+
+
+When the number of retrieved results is 0 (no feedback given about user profile)
+RM1
+topDocs = 3, topTerms = 10
+The count now is 50
+The non-zero count is 34
+The average non-zero Rouge-1 model is 0.23236367678805106
+The average non-zero Rouge-L model is 0.20656154179726352
+Average Rouge-1 for the model is 0.15800730021587472
+Average Rouge-L for the model is 0.1404618484221392
+
+topDocs = 2, topTerms = 5
+The count now is 50
+The non-zero count is 38
+The average non-zero Rouge-1 model is 0.18511368949527376
+The average non-zero Rouge-L model is 0.1682445936788095
+Average Rouge-1 for the model is 0.14068640401640806
+Average Rouge-L for the model is 0.12786589119589523
+
+topDocs = 1, topTerms = 5
+The count now is 50
+The non-zero count is 34
+The average non-zero Rouge-1 model is 0.24574939284913314
+The average non-zero Rouge-L model is 0.21936959191690253
+Average Rouge-1 for the model is 0.16710958713741053
+Average Rouge-L for the model is 0.14917132250349371
+
+RM3
+topDocs = 3, topTerms = 10, origWeight = 0.25
+The count now is 50
+The non-zero count is 34
+The average non-zero Rouge-1 model is 0.24651819163656719
+The average non-zero Rouge-L model is 0.22050907610368548
+Average Rouge-1 for the model is 0.16763237031286568
+Average Rouge-L for the model is 0.14994617175050612
+
+topDocs = 2, topTerms = 5, origWeight = 0.25
+The count now is 50
+The non-zero count is 38
+The average non-zero Rouge-1 model is 0.24452458003134225
+The average non-zero Rouge-L model is 0.21730904327327658
+Average Rouge-1 for the model is 0.1858386808238201
+Average Rouge-L for the model is 0.1651548728876902
+
+topDocs = 1, topTerms = 5, origWeight = 0.25
+The count now is 50
+The non-zero count is 35
+The average non-zero Rouge-1 model is 0.21529154076876325
+The average non-zero Rouge-L model is 0.19351321327615004
+Average Rouge-1 for the model is 0.15070407853813428
+Average Rouge-L for the model is 0.13545924929330502
+
+
+topDocs = 3, topTerms = 10, origWeight = 0.75
+The count now is 50
+The non-zero count is 31
+The average non-zero Rouge-1 model is 0.22661679148789388
+The average non-zero Rouge-L model is 0.2038887245737905
+Average Rouge-1 for the model is 0.1405024107224942
+Average Rouge-L for the model is 0.1264110092357501
+
+
+When the number of retrieved results is 1 (but no PRF)
+The count now is 50
+The non-zero count is 34
+The average non-zero Rouge-1 model is 0.2149293977063204
+The average non-zero Rouge-L model is 0.1883758466446558
+Average Rouge-1 for the model is 0.1461519904402979
+Average Rouge-L for the model is 0.12809557571836594
+
+
+When the number of retrieved results is 2 (but no PRF)
+The count now is 50
+The non-zero count is 30
+The average non-zero Rouge-1 model is 0.20939074291096912
+The average non-zero Rouge-L model is 0.17616543426899386
+Average Rouge-1 for the model is 0.12563444574658147
+Average Rouge-L for the model is 0.10569926056139632
